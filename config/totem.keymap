@@ -103,7 +103,7 @@
                 &kp NUMBER_1      &kp NUMBER_2      &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5    &kp NUMBER_6      &kp N7                    &kp N8                  &kp N9                   &kp N0
                 &kp SINGLE_QUOTE  &kp LEFT_CONTROL  &kp LEFT_WIN  &kp LEFT_ALT  &kp GRAVE       &kp LEFT_ARROW    &mt RIGHT_ALT DOWN_ARROW  &mt RIGHT_WIN UP_ARROW  &mt RIGHT_CONTROL RIGHT  &kp BACKSLASH
 &kp LEFT_SHIFT  &trans            &kp PG_UP         &kp CAPS      &kp PG_DN     &kp PERIOD      &kp LEFT_BRACKET  &kp RIGHT_BRACKET         &kp MINUS               &kp EQUAL                &kp SINGLE_QUOTE  &kp RIGHT_SHIFT
-                                                    &trans        &trans        &trans          &mo 3             &trans                    &trans
+                                                    &trans        &trans        &trans          &trans            &trans                    &trans
             >;
         };
 
@@ -129,7 +129,7 @@
             &trans  &bt BT_PRV  &trans        &bt BT_NXT  &trans    &trans  &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &kp PRINTSCREEN  &trans
             &trans  &mo 4       &kp LEFT_WIN  &mo 5       &trans    &trans  &kp K_VOLUME_DOWN     &kp K_MUTE            &kp K_VOLUME_UP  &trans
 &bt BT_CLR  &trans  &trans      &trans        &trans      &trans    &trans  &kp K_PREV            &kp K_PLAY_PAUSE      &kp K_NEXT       &trans  &trans
-                                &trans        &trans      &trans    &trans  &trans                &trans
+                                &trans        &trans      &trans    &mo 3   &trans                &trans
             >;
         };
 
