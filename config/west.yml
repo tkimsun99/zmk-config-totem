@@ -11,7 +11,7 @@ manifest:
     #   import: app/west.yml
     - name: zmk
       remote: battery_reporting
-      revision: main
+      revision: feat/battery-reporting
       import: app/west.yml
   self:
     path: config
