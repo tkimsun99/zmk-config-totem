@@ -3,7 +3,7 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: battery_reporting
-      url-base: https://github.com/ask-786
+      url-base: https://github.com/bin-marakkar
   projects:
     # - name: zmk
     #   remote: zmkfirmware
