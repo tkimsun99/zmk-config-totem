@@ -4,6 +4,14 @@
     chosen {
         zmk,kscan = &mock_kscan;
         zmk,physical-layout = &physical_layout0;
+        zmk,battery-reporting = &batt_report;
+    };
+
+    batt_report: battery-reporting {
+        compatible = "zmk,battery-reporting";
+        dongle { hidden; };
+        left { };
+        right { };
     };
 
     mock_kscan: mock_kscan_0 {
